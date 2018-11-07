@@ -1,4 +1,4 @@
-# jsdrumkit1
+# JS Drum Kit 1
 Javascript drum kit tutorial from Javascript30
 
 When you click on a key, two things will happen:
